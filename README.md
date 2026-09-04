@@ -50,3 +50,4 @@ CSDN 连载中（链接待发布后补全）：
 - [回溯算法（三）：三记重锤与 N 皇后——记忆化、状态设计与三层漏斗](https://blog.csdn.net/a18792721831/article/details/164360231)
 - [动态规划第一篇：从打家劫舍到状态设计的三堂课](https://blog.csdn.net/a18792721831/article/details/164369733)
 - [动态规划第二篇：双序列 DP 三课——继承、计步与断链](https://blog.csdn.net/a18792721831/article/details/164371018)
+- [动态规划第三篇：背包第一课——贪心之死与正序倒序开关](https://blog.csdn.net/a18792721831/article/details/164372486)
