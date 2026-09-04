@@ -52,3 +52,4 @@ CSDN 连载中（链接待发布后补全）：
 - [动态规划第二篇：双序列 DP 三课——继承、计步与断链](https://blog.csdn.net/a18792721831/article/details/164371018)
 - [动态规划第三篇：背包第一课——贪心之死与正序倒序开关](https://blog.csdn.net/a18792721831/article/details/164372486)
 - [动态规划第四篇：背包收官——min哨兵、计数世界与组合排列分水岭](https://blog.csdn.net/a18792721831/article/details/164372603)
+- [动态规划第五篇：区间DP——从看什么都像背包到最后戳谁](https://blog.csdn.net/a18792721831/article/details/164372899)
